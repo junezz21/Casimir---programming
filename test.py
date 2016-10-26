@@ -1,7 +1,7 @@
 import numpy
 import numpy as np
 def circumference (radius)
-<<<<<<< HEAD
+<<<<<<< HEAD #version 123
     a = 2*np.pi*radius
     return a
 def surface(radius)
@@ -10,7 +10,7 @@ def surface(radius)
 radius = 2
 print("The surface is", b)
 print("The circumference is",a)
-#version 123
+
 =======
     a = 2*pi*radius
     print("The circumference is",a)
