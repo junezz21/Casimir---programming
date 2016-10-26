@@ -7,6 +7,5 @@ def surface(radius):
     b = np.pi*radius^2
     return b
 radius = 2
-print("The surface is", b)
-print("The circumference is",a)
-
+print("The surface is", circumference(radius))
+print("The circumference is",surface(radius))
